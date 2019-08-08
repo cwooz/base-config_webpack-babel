@@ -1,5 +1,5 @@
 {
-  "name": "webpack-babel project base",
+  "name": "webpack-babel_project-base",
   "version": "1.0.0",
   "description": "webpack-babel Project Base for starting any new project, powered by [javascript, node, express, mongodb, react, redux](#).",
   "main": "index.js",

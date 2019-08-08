@@ -14,16 +14,10 @@ Webpack-Babel Project Base for starting any project, powered by [javascript, nod
 # Clone Repository
 git clone https://github.com/cwooz/base-config_webpack-babel.git
 cd base-config_webpack-babel
-# Install server dependencies
+# Install app dependencies
 npm install
-# Install client dependencies
-cd client
-npm install
-# Run both Express & React from root
-npm run dev
-# Build for production
-cd client
-npm run build
+# Run app
+npm run start
 ```
 
 ## Built Using
